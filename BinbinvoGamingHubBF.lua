@@ -2089,7 +2089,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
         game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
     end)
     --------------------------------------------------------------------
-    local RenUi = library:AddWindow("Ren Hub | BF",Enum.KeyCode.RightControl)
+    local RenUi = library:AddWindow("BinbinvoGaming Hub | BF",Enum.KeyCode.RightControl)
     --------------------------------------------------------------------
     local Main = RenUi:AddTab("Auto Farm","6026568198")
     local Combat = RenUi:AddTab("Combat","7251993295")
