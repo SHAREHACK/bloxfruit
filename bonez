@@ -1,0 +1,2 @@
+_G.English = true
+loadstring(game:HttpGet("https://paste.gg/p/anonymous/75487fb8949349828e4e4a91bfb8eb6e/files/6ebc9f2055f641fbb606ff494ac4ee53/raw"))()
