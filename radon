@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WaterMelonHubb/WaterMelonBloxFruit/main/WaterMelonBloxFruitV2"))()
