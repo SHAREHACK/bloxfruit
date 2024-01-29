@@ -1,0 +1,5 @@
+-- Theme = ["Red", "Blue", "DarkBlue", "LightGreen", " Green", "Cyan", "Purple", " Zinc"] --Default: Zinc;
+-- Ui = ["Mobile", "Pc"] --Default: Pc;
+_G.Theme = "LightGreen"
+_G.Ui = "Mobile"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/farghii/relzhub/main/execute.hack", true))()
